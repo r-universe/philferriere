@@ -1,10 +1,10 @@
 [
   {
-    "package": "mscsweblm4r",
+    "package": "mscstexta4r",
     "oncran": true
   },
   {
-    "package": "mscstexta4r",
+    "package": "mscsweblm4r",
     "oncran": true
   }
 ]
